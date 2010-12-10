@@ -1,0 +1,20 @@
+{
+  "name": "oDesk",
+  "description": "Change How the World Works",
+  "version": "1",
+  "app": {
+    "urls": [
+      "*://www.odesk.com/"
+    ],
+    "launch": {
+      "web_url": "http://odesk.com/home"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}
